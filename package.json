@@ -1,5 +1,5 @@
 {
-  "name": "@nullset/dialog-polyfill",
+  "name": "dialog-polyfill",
   "version": "0.5.0",
   "description": "Polyfill for the dialog element",
   "main": "dist/dialog-polyfill.js",
