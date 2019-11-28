@@ -6,7 +6,7 @@
   "module": "dist/dialog-polyfill.esm.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/GoogleChrome/dialog-polyfill.git"
+    "url": "https://github.com/nullset/dialog-polyfill.git"
   },
   "author": "The Chromium Authors",
   "license": "BSD",
